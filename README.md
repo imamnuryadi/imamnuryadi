@@ -1,2 +1,2 @@
 # imamnuryadi
-OSS
+OSS for git commands demonstration
